@@ -11,3 +11,6 @@ Apart from client work Marissa and I held conversations about topics in Data Sci
 This mentorship helped drive client success since by the end of mentoring Marissa was able to apply what she had learned from our conversations and by practice to take on larger, more complex tasks and the client was able to rely on Marissa for assistance. 
 
 This impacted our client engagement including building client's trust. This helped Marissa become a more informed and well trained data scientist and consultant.
+
+
+More random text added.
